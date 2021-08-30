@@ -1,3 +1,0 @@
-/Users/maan/Documents/CompSci/Computer_Vision_Submission/computerVision/CMakeFiles/rebuild_cache.dir
-/Users/maan/Documents/CompSci/Computer_Vision_Submission/computerVision/CMakeFiles/edit_cache.dir
-/Users/maan/Documents/CompSci/Computer_Vision_Submission/computerVision/CMakeFiles/computerVision.dir
